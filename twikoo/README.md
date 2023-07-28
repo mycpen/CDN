@@ -4,9 +4,9 @@
 
 路径：[twikoo.json](twikoo.json)
 
-cdn：[Tianli](https://cdn1.tianli0.top/gh/mycpen/CDN/twikoo/twikoo.json)
+cdn：[chuqis](https://cdn.chuqis.com/gh/mycpen/CDN/twikoo/twikoo.json)
 
-更新：2023/04/09
+更新：2023/07/28
 
 
 
@@ -14,9 +14,21 @@ cdn：[Tianli](https://cdn1.tianli0.top/gh/mycpen/CDN/twikoo/twikoo.json)
 
 路径：[twikoo1.json](twikoo1.json)
 
-cdn：[Tianli](https://cdn1.tianli0.top/gh/mycpen/CDN/twikoo/twikoo1.json)
+cdn：[chuqis](https://cdn.chuqis.com/gh/mycpen/CDN/twikoo/twikoo1.json)
 
 来源：[Leonus](https://blog.leonus.cn/owo.json)
 
-更新：2023/04/09
+更新：2023/07/28
+
+
+
+## 3. emoji + [Sticker-Heo](https://github.com/zhheo/Sticker-Heo) + [IKUN](https://fe32.top/articles/ikun0001/)
+
+路径：[twikoo2.json](twikoo2.json)
+
+cdn：[chuqis](https://cdn.chuqis.com/gh/mycpen/CDN/twikoo/twikoo2.json)
+
+来源：[Leonus](https://blog.leonus.cn/owo.json)、[Ethan.Tzy](https://fe32.top/articles/ikun0001/)
+
+更新：2023/07/28
 

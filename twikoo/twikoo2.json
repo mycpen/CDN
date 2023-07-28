@@ -1,5 +1,274 @@
 {
-	"<img src=\"https://image.cpen.top/image/blog/link/blog.zhheo.com/sticker-heo/Sticker-100/害羞.png\" style=\"width: 30px;top: 4px;position: relative;\" title=\"Heo\">": {
+	"Emoji": {
+		"type": "emoji",
+		"container": [
+			{
+				"icon": "😂",
+				"text": "笑哭了"
+			},
+			{
+				"icon": "😄",
+				"text": "大笑"
+			},
+			{
+				"icon": "😁",
+				"text": "嘻嘻"
+			},
+			{
+				"icon": "😅",
+				"text": "苦笑"
+			},
+			{
+				"icon": "😊",
+				"text": "羞涩微笑"
+			},
+			{
+				"icon": "🥰",
+				"text": "喜笑颜开"
+			},
+			{
+				"icon": "😍",
+				"text": "花痴"
+			},
+			{
+				"icon": "🤩",
+				"text": "好崇拜哦"
+			},
+			{
+				"icon": "😘",
+				"text": "飞吻"
+			},
+			{
+				"icon": "😙",
+				"text": "亲亲"
+			},
+			{
+				"icon": "😋",
+				"text": "好吃"
+			},
+			{
+				"icon": "😜",
+				"text": "单眼吐舌"
+			},
+			{
+				"icon": "🤪",
+				"text": "滑稽"
+			},
+			{
+				"icon": "🤭",
+				"text": "不说"
+			},
+			{
+				"icon": "🤔",
+				"text": "想一想"
+			},
+			{
+				"icon": "😶",
+				"text": "沉默"
+			},
+			{
+				"icon": "😏",
+				"text": "得意"
+			},
+			{
+				"icon": "😒",
+				"text": "不高兴"
+			},
+			{
+				"icon": "🙄",
+				"text": "翻白眼"
+			},
+			{
+				"icon": "😪",
+				"text": "困"
+			},
+			{
+				"icon": "🤤",
+				"text": "流口水"
+			},
+			{
+				"icon": "🤮",
+				"text": "呕吐"
+			},
+			{
+				"icon": "🥳",
+				"text": "聚会笑脸"
+			},
+			{
+				"icon": "😎",
+				"text": "墨镜笑脸"
+			},
+			{
+				"icon": "🥺",
+				"text": "恳求的脸"
+			},
+			{
+				"icon": "😭",
+				"text": "放声大哭"
+			},
+			{
+				"icon": "😖",
+				"text": "困惑"
+			},
+			{
+				"icon": "😓",
+				"text": "汗"
+			},
+			{
+				"icon": "🥱",
+				"text": "打呵欠"
+			},
+			{
+				"icon": "💩",
+				"text": "大便"
+			},
+			{
+				"icon": "🤡",
+				"text": "小丑脸"
+			},
+			{
+				"icon": "👻",
+				"text": "鬼"
+			},
+			{
+				"icon": "😸",
+				"text": "微笑的猫"
+			},
+			{
+				"icon": "😹",
+				"text": "笑出眼泪的猫"
+			},
+			{
+				"icon": "😻",
+				"text": "花痴的猫"
+			},
+			{
+				"icon": "😽",
+				"text": "亲亲猫"
+			},
+			{
+				"icon": "🙀",
+				"text": "疲倦的猫"
+			},
+			{
+				"icon": "😿",
+				"text": "哭泣的猫"
+			},
+			{
+				"icon": "😾",
+				"text": "生气的猫"
+			},
+			{
+				"icon": "🙈",
+				"text": "非礼勿视"
+			},
+			{
+				"icon": "🙉",
+				"text": "非礼勿听"
+			},
+			{
+				"icon": "🙊",
+				"text": "非礼勿言"
+			},
+			{
+				"icon": "💋",
+				"text": "唇印"
+			},
+			{
+				"icon": "💖",
+				"text": "闪亮的心"
+			},
+			{
+				"icon": "💔",
+				"text": "心碎"
+			},
+			{
+				"icon": "❤️",
+				"text": "红心"
+			},
+			{
+				"icon": "💢",
+				"text": "怒"
+			},
+			{
+				"icon": "💦",
+				"text": "汗滴"
+			},
+			{
+				"icon": "💤",
+				"text": "睡着"
+			},
+			{
+				"icon": "👋",
+				"text": "挥手"
+			},
+			{
+				"icon": "👌",
+				"text": "OK"
+			},
+			{
+				"icon": "🤏",
+				"text": "捏合的手势"
+			},
+			{
+				"icon": "✌️",
+				"text": "胜利手势"
+			},
+			{
+				"icon": "🖕",
+				"text": "竖中指"
+			},
+			{
+				"icon": "👍",
+				"text": "拇指向上"
+			},
+			{
+				"icon": "👏",
+				"text": "鼓掌"
+			},
+			{
+				"icon": "🤝",
+				"text": "握手"
+			},
+			{
+				"icon": "👀",
+				"text": "双眼"
+			},
+			{
+				"icon": "🦋",
+				"text": "蝴蝶"
+			},
+			{
+				"icon": "💐",
+				"text": "花束"
+			},
+			{
+				"icon": "🌸",
+				"text": "樱花"
+			},
+			{
+				"icon": "🌹",
+				"text": "玫瑰"
+			},
+			{
+				"icon": "🍉",
+				"text": "西瓜"
+			},
+			{
+				"icon": "🍗",
+				"text": "家禽的腿"
+			},
+			{
+				"icon": "🥟",
+				"text": "饺子"
+			},
+			{
+				"icon": "🍭",
+				"text": "棒棒糖"
+			}
+		]
+	},
+	"Heo": {
 		"type": "image",
 		"container": [
 			{
@@ -597,6 +866,511 @@
 			{
 				"icon": "<img src=\"https://image.cpen.top/image/blog/link/blog.zhheo.com/sticker-heo/Sticker-100/鼓掌.png\">",
 				"text": "heo-鼓掌"
+			}
+		]
+	},
+	"IKUN": {
+		"type": "image",
+		"container": [
+			{
+				"text": "ikun-1",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-01.png'>"
+			},
+			{
+				"text": "ikun-2",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-02.png'>"
+			},
+			{
+				"text": "ikun-3",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-03.png'>"
+			},
+			{
+				"text": "ikun-4",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-04.png'>"
+			},
+			{
+				"text": "ikun-5",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-05.png'>"
+			},
+			{
+				"text": "ikun-6",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-06.png'>"
+			},
+			{
+				"text": "ikun-7",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-07.png'>"
+			},
+			{
+				"text": "ikun-8",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-08.png'>"
+			},
+			{
+				"text": "ikun-9",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-09.png'>"
+			},
+			{
+				"text": "ikun-10",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-10.png'>"
+			},
+			{
+				"text": "ikun-12",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-12.png'>"
+			},
+			{
+				"text": "ikun-13",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-13.png'>"
+			},
+			{
+				"text": "ikun-14",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-14.png'>"
+			},
+			{
+				"text": "ikun-15",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-15.png'>"
+			},
+			{
+				"text": "ikun-16",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-16.png'>"
+			},
+			{
+				"text": "ikun-17",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-17.png'>"
+			},
+			{
+				"text": "ikun-18",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-18.png'>"
+			},
+			{
+				"text": "ikun-19",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-19.png'>"
+			},
+			{
+				"text": "ikun-20",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-20.png'>"
+			},
+			{
+				"text": "ikun-21",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-21.png'>"
+			},
+			{
+				"text": "ikun-22",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-22.png'>"
+			},
+			{
+				"text": "ikun-23",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-23.png'>"
+			},
+			{
+				"text": "ikun-24",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-24.png'>"
+			},
+			{
+				"text": "ikun-25",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-25.png'>"
+			},
+			{
+				"text": "ikun-26",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-26.png'>"
+			},
+			{
+				"text": "ikun-27",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-27.png'>"
+			},
+			{
+				"text": "ikun-28",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-28.png'>"
+			},
+			{
+				"text": "ikun-29",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-29.png'>"
+			},
+			{
+				"text": "ikun-30",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-30.png'>"
+			},
+			{
+				"text": "ikun-31",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-31.png'>"
+			},
+			{
+				"text": "ikun-32",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-32.png'>"
+			},
+			{
+				"text": "ikun-33",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-33.png'>"
+			},
+			{
+				"text": "ikun-34",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-34.png'>"
+			},
+			{
+				"text": "ikun-35",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-35.png'>"
+			},
+			{
+				"text": "ikun-36",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-36.png'>"
+			},
+			{
+				"text": "ikun-37",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-37.png'>"
+			},
+			{
+				"text": "ikun-38",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-38.png'>"
+			},
+			{
+				"text": "ikun-39",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-39.png'>"
+			},
+			{
+				"text": "ikun-40",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-40.png'>"
+			},
+			{
+				"text": "ikun-41",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-41.png'>"
+			},
+			{
+				"text": "ikun-42",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-42.png'>"
+			},
+			{
+				"text": "ikun-43",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-43.png'>"
+			},
+			{
+				"text": "ikun-44",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-44.png'>"
+			},
+			{
+				"text": "ikun-45",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-45.png'>"
+			},
+			{
+				"text": "ikun-46",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-46.png'>"
+			},
+			{
+				"text": "ikun-47",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-47.png'>"
+			},
+			{
+				"text": "ikun-48",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-48.png'>"
+			},
+			{
+				"text": "ikun-49",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-49.png'>"
+			},
+			{
+				"text": "ikun-50",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-50.png'>"
+			},
+			{
+				"text": "ikun-51",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-51.png'>"
+			},
+			{
+				"text": "ikun-52",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-52.png'>"
+			},
+			{
+				"text": "ikun-53",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-53.png'>"
+			},
+			{
+				"text": "ikun-54",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-54.png'>"
+			},
+			{
+				"text": "ikun-55",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-55.png'>"
+			},
+			{
+				"text": "ikun-56",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-56.png'>"
+			},
+			{
+				"text": "ikun-57",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-57.png'>"
+			},
+			{
+				"text": "ikun-58",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-58.png'>"
+			},
+			{
+				"text": "ikun-59",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-59.png'>"
+			},
+			{
+				"text": "ikun-60",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-60.png'>"
+			},
+			{
+				"text": "ikun-61",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-61.png'>"
+			},
+			{
+				"text": "ikun-62",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-62.png'>"
+			},
+			{
+				"text": "ikun-63",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-63.png'>"
+			},
+			{
+				"text": "ikun-64",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-64.png'>"
+			},
+			{
+				"text": "ikun-65",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-65.png'>"
+			},
+			{
+				"text": "ikun-66",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-66.png'>"
+			},
+			{
+				"text": "ikun-67",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-67.png'>"
+			},
+			{
+				"text": "ikun-68",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-68.png'>"
+			},
+			{
+				"text": "ikun-69",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-69.png'>"
+			},
+			{
+				"text": "ikun-70",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-70.png'>"
+			},
+			{
+				"text": "ikun-71",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-71.png'>"
+			},
+			{
+				"text": "ikun-72",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-72.png'>"
+			},
+			{
+				"text": "ikun-73",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-73.png'>"
+			},
+			{
+				"text": "ikun-74",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-74.png'>"
+			},
+			{
+				"text": "ikun-75",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-75.png'>"
+			},
+			{
+				"text": "ikun-76",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-76.png'>"
+			},
+			{
+				"text": "ikun-77",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-77.png'>"
+			},
+			{
+				"text": "ikun-78",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-78.png'>"
+			},
+			{
+				"text": "ikun-79",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-79.png'>"
+			},
+			{
+				"text": "ikun-80",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-80.png'>"
+			},
+			{
+				"text": "ikun-81",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-81.png'>"
+			},
+			{
+				"text": "ikun-82",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-82.png'>"
+			},
+			{
+				"text": "ikun-83",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-83.png'>"
+			},
+			{
+				"text": "ikun-84",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-84.png'>"
+			},
+			{
+				"text": "ikun-85",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-85.png'>"
+			},
+			{
+				"text": "ikun-86",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-86.png'>"
+			},
+			{
+				"text": "ikun-87",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-87.png'>"
+			},
+			{
+				"text": "ikun-88",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-88.png'>"
+			},
+			{
+				"text": "ikun-89",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-89.png'>"
+			},
+			{
+				"text": "ikun-90",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-90.png'>"
+			},
+			{
+				"text": "ikun-91",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-91.png'>"
+			},
+			{
+				"text": "ikun-92",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-92.png'>"
+			},
+			{
+				"text": "ikun-93",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-93.png'>"
+			},
+			{
+				"text": "ikun-94",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-94.png'>"
+			},
+			{
+				"text": "ikun-95",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-95.png'>"
+			},
+			{
+				"text": "ikun-96",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-96.png'>"
+			},
+			{
+				"text": "ikun-97",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-97.png'>"
+			},
+			{
+				"text": "ikun-98",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-98.png'>"
+			},
+			{
+				"text": "ikun-99",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-99.png'>"
+			},
+			{
+				"text": "ikun-100",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-100.png'>"
+			},
+			{
+				"text": "ikun-101",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-101.png'>"
+			},
+			{
+				"text": "ikun-102",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-102.png'>"
+			},
+			{
+				"text": "ikun-103",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-103.png'>"
+			},
+			{
+				"text": "ikun-104",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-104.png'>"
+			},
+			{
+				"text": "ikun-105",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-105.png'>"
+			},
+			{
+				"text": "ikun-106",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-106.png'>"
+			},
+			{
+				"text": "ikun-107",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-107.png'>"
+			},
+			{
+				"text": "ikun-108",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-108.png'>"
+			},
+			{
+				"text": "ikun-109",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-109.png'>"
+			},
+			{
+				"text": "ikun-110",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-110.png'>"
+			},
+			{
+				"text": "ikun-111",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-111.png'>"
+			},
+			{
+				"text": "ikun-112",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-112.png'>"
+			},
+			{
+				"text": "ikun-113",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-113.png'>"
+			},
+			{
+				"text": "ikun-114",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-114.png'>"
+			},
+			{
+				"text": "ikun-115",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-115.png'>"
+			},
+			{
+				"text": "ikun-116",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-116.png'>"
+			},
+			{
+				"text": "ikun-117",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-117.png'>"
+			},
+			{
+				"text": "ikun-118",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-118.png'>"
+			},
+			{
+				"text": "ikun-119",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-119.png'>"
+			},
+			{
+				"text": "ikun-120",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-120.png'>"
+			},
+			{
+				"text": "ikun-121",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-121.png'>"
+			},
+			{
+				"text": "ikun-122",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-122.png'>"
+			},
+			{
+				"text": "ikun-123",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-123.png'>"
+			},
+			{
+				"text": "ikun-124",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-124.png'>"
+			},
+			{
+				"text": "ikun-125",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-125.png'>"
+			},
+			{
+				"text": "ikun-126",
+				"icon": "<img src='https://image.cpen.top/image/blog/ikun/ikun-126.png'>"
 			}
 		]
 	}
