@@ -1,0 +1,49 @@
+name: Node.js Package
+# 监测分支，2020年10月后github新建仓库默认分支改为main，记得更改
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  publish-npm:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: szenius/set-timezone@v1.0 # 设置执行环境的时区
+        with:
+          timezoneLinux: "Asia/Shanghai"
+
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.10"
+      - name: Change npm package version
+        run: |
+          python .github/scripts/change-package-version.py
+
+      - uses: actions/setup-node@v1
+        with:
+          node-version: "18.x"
+          registry-url: https://registry.npmjs.org/
+      - run: npm publish
+        env:
+          NODE_AUTH_TOKEN: ${{secrets.npm_token}}
+
+      - name: Wait for 3 minutes
+        run: sleep 180 # 等待 3 分钟，单位为秒
+
+      - name: Sync package from npm to npmmirror
+        run: |
+          npm install -g cnpm --registry=https://registry.npmmirror.com
+          cnpm sync mycpen-cdn
+
+      - name: Delete workflow runs
+        uses: Mattraks/delete-workflow-runs@v2
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          repository: ${{ github.repository }}
+          retain_days: 30
+          keep_minimum_runs: 6
