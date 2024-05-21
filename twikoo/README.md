@@ -38,7 +38,7 @@ cdn：/gh/mycpen/CDN/twikoo/twikoo2.json
 
 路径：[twikoo3.json](twikoo3.json)
 
-cdn：[npmmirror](https://registry.npmmirror.com/mycpen-cdn/latest/files/twikoo/twikoo3.json)
+cdn：[npmmirror](https://registry.npmmirror.com/mycpen-cdn/0.0.0-fjakdvdfur/files/twikoo/twikoo3.json)
 
 更新：24/03/24
 
