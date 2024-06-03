@@ -5,7 +5,7 @@
 
 来源：[哔哩哔哩](https://s1.hdslb.com/bfs/static/jinkela/long/font/regular.css)
 
-cdn：[npmmirror](https://registry.npmmirror.com/mycpen-cdn/0.0.0-fjakdvdfur/files/font/HarmonyOS_Regular/regular.css)
+cdn：[cdn.cbd.int] (https://cdn.cbd.int/mycpen-cdn@0.0.0-fjakdvdfur/font/HarmonyOS_Regular/regular.css)
 
 更新：24/03/24
 

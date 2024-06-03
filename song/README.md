@@ -4,7 +4,7 @@
 
 文件：`song.jpg`、`song.lrc`、`song.mp3`
 
-cdn格式：`https://registry.npmmirror.com/mycpen-cdn/${version}/files/song/${歌手}/${歌名}/${file}`
+cdn格式：`https://cdn.cbd.int/mycpen-cdn@${version}/song/${歌手}/${歌名}/${file}`
 
 
 
@@ -14,7 +14,7 @@ cdn格式：`https://registry.npmmirror.com/mycpen-cdn/${version}/files/song/${�
 
 来源：[mycpen](https://gitee.com/mycpen/cdn3/tree/master/song)
 
-cdn：[npmmirror](https://registry.npmmirror.com/mycpen-cdn/0.0.0-fiaiwjbwdf/files/song/S.H.E/%E4%B8%80%E7%9C%BC%E4%B8%87%E5%B9%B4/song.mp3)
+cdn：[cdn.cbd.int](https://cdn.cbd.int/mycpen-cdn@0.0.0-fiaiwjbwdf/song/S.H.E/%E4%B8%80%E7%9C%BC%E4%B8%87%E5%B9%B4/song.mp3)
 
 歌单如下
 

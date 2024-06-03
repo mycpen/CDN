@@ -8,7 +8,7 @@
 
 来源：[@mycpen](https://gitee.com/mycpen/cdn2)
 
-cdn：[npmmirror](https://registry.npmmirror.com/mycpen-cdn/0.0.0-wyujwhwbur/files/gallery/wallpaper/1.jpg)
+cdn：[cdn.cbd.int](https://cdn.cbd.int/mycpen-cdn@0.0.0-wyujwhwbur/gallery/wallpaper/1.jpg)
 
 
 
@@ -20,7 +20,7 @@ cdn：[npmmirror](https://registry.npmmirror.com/mycpen-cdn/0.0.0-wyujwhwbur/fil
 
 来源：[@mycpen](https://gitee.com/mycpen/cdn2)
 
-cdn：[npmmirror](https://registry.npmmirror.com/mycpen-cdn/0.0.0-eiujfxwuwd/files/gallery/bj/IMG_20210626_154440.jpg)
+cdn：[cdn.cbd.int](https://cdn.cbd.int/mycpen-cdn@0.0.0-eiujfxwuwd/gallery/bj/IMG_20210626_154440.jpg)
 
 
 
@@ -32,7 +32,7 @@ cdn：[npmmirror](https://registry.npmmirror.com/mycpen-cdn/0.0.0-eiujfxwuwd/fil
 
 来源：[唐志远](https://old.fe32.top/wallpaper/)
 
-cdn：[npmmirror](https://registry.npmmirror.com/mycpen-cdn/0.0.0-ejbjejucce/files/gallery/fe32.top/4K%E4%B8%93%E5%8C%BA/t014d46a590e4d07543.jpg)
+cdn：[cdn.cbd.int](https://cdn.cbd.int/mycpen-cdn@0.0.0-ejbjejucce/gallery/fe32.top/4K%E4%B8%93%E5%8C%BA/t014d46a590e4d07543.jpg)
 
 
 
@@ -44,7 +44,7 @@ cdn：[npmmirror](https://registry.npmmirror.com/mycpen-cdn/0.0.0-ejbjejucce/fil
 
 来源：[唐志远](https://old.fe32.top/wallpaper/)
 
-cdn：[npmmirror](https://registry.npmmirror.com/mycpen-cdn/0.0.0-wjaifyudds/files/gallery/fe32.top/%E7%BE%8E%E5%A5%B3%E6%A8%A1%E7%89%B9/t01a2c69f5b7eeac889.jpg)
+cdn：[cdn.cbd.int](https://cdn.cbd.int/mycpen-cdn@0.0.0-wjaifyudds/gallery/fe32.top/%E7%BE%8E%E5%A5%B3%E6%A8%A1%E7%89%B9/t01a2c69f5b7eeac889.jpg)
 
 
 
@@ -56,5 +56,5 @@ cdn：[npmmirror](https://registry.npmmirror.com/mycpen-cdn/0.0.0-wjaifyudds/fil
 
 来源：[唐志远](https://old.fe32.top/wallpaper/)
 
-cdn：[npmmirror](https://registry.npmmirror.com/mycpen-cdn/0.0.0-wjajfybvfi/files/gallery/fe32.top/%E8%90%8C%E5%AE%A0%E5%8A%A8%E7%89%A9/t01b5af40fb5221f6ed.jpg)
+cdn：[cdn.cbd.int](https://cdn.cbd.int/mycpen-cdn@0.0.0-wjajfybvfi/gallery/fe32.top/%E8%90%8C%E5%AE%A0%E5%8A%A8%E7%89%A9/t01b5af40fb5221f6ed.jpg)
 
