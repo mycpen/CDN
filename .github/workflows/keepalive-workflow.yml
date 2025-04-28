@@ -1,0 +1,40 @@
+name: Keepalive workflow
+
+on:
+  schedule:
+    - cron: "0 22 1 * *" # 每月2号 6:00
+  workflow_dispatch:
+  # push:
+  #   branches:
+  #     - main
+
+jobs:
+  replace-time:
+    runs-on: ubuntu-latest
+    steps:
+      # checkout
+      - name: checkout
+        uses: actions/checkout@v2
+      - uses: szenius/set-timezone@v1.0 # 设置执行环境的时区
+        with:
+          timezoneLinux: "Asia/Shanghai"
+      # setup python
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.10"
+      # 替换 .keepalive 当前时间
+      - name: Replace keepalive workflow
+        run: |
+          python .github/scripts/replace-keepalive-workflow.py
+      # commit
+      - name: commit file
+        run: |
+          git config --local user.email 'github-actions[bot]@users.noreply.github.com'
+          git config --local user.name 'github-actions[bot]'
+          git diff --exit-code || git add . && git commit -am "$(date +'%Y/%m/%d')" --allow-empty
+      # push 
+      - name: push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GH_TOKEN }}
