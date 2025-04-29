@@ -1,0 +1,26 @@
+name: Delete workflow runs
+
+on:
+  schedule:
+    - cron: "0 17 * * 5" # 周六 1:00
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Delete workflow runs
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@main
+
+      - uses: szenius/set-timezone@v1.0 # 设置执行环境的时区
+        with:
+          timezoneLinux: "Asia/Shanghai"
+
+      - name: Delete workflow runs
+        uses: Mattraks/delete-workflow-runs@v2
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          repository: ${{ github.repository }}
+          retain_days: 30
+          keep_minimum_runs: 6

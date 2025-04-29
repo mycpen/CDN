@@ -24,11 +24,3 @@ jobs:
           git config --local user.name 'github-actions[bot]'
           git fetch --unshallow
           git push --force --quiet "https://${{ github.repository_owner }}:${{ secrets.GITEE_TOKEN }}@gitee.com/${{ github.repository }}.git" main:main
-
-      - name: Delete workflow runs
-        uses: Mattraks/delete-workflow-runs@v2
-        with:
-          token: ${{ secrets.GH_TOKEN }}
-          repository: ${{ github.repository }}
-          retain_days: 30
-          keep_minimum_runs: 6
